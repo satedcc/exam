@@ -1,0 +1,21 @@
+1. update controller
+ - Silahkan lakukan update/replace pada file application/controller/admin/Jadwal.php
+ - Silahkan lakukan update/replace pada file application/controller/admin/Laporan.php
+ - Silahkan lakukan update/replace pada file application/controller/admin/Peserta.php
+ - Silahkan lakukan update/replace pada file application/controller/Akun.php
+ - Silahkan lakukan update/replace pada file application/controller/Register.php
+ - Silahkan lakukan update/replace pada file application/controller/Soal.php
+
+2. Update Model
+ - Silahkan lakukan update/replace pada file application/models/M_jadwal.php
+ - Silahkan lakukan update/replace pada file application/models/M_jawaban.php
+
+3. Update View
+ - Silahkan lakukan update/replace pada file application/views/akun.php
+ - Silahkan lakukan update/replace pada file application/views/exam.php
+ - Silahkan lakukan update/replace pada file application/views/finish.php
+ - Silahkan lakukan update/replace pada file application/views/register.php
+ - Silahkan lakukan update/replace pada file application/views/layouts/footer.php
+ - Silahkan lakukan update/replace pada folder application/views/admin/
+
+4. Hapus table ex_jawaban dan import tabel baru ex_jawaban.sql (database/new_ex_jawaban.sql)
